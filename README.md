@@ -2,11 +2,11 @@
 
 A bilingual (Persian / English) personal portfolio website built from scratch with plain HTML, CSS, and JavaScript. It introduces me, my skills, and my projects, with a smooth language switcher between Farsi (RTL) and English (LTR).
 
-🔗 **Live Demo:** _(add your GitHub Pages / hosting link here)_
+🔗 **Live Demo:** (https://saborrasoolipy.github.io/saborrasooli/)
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 - 🌍 **Bilingual support** — instantly switch between Persian (فارسی) and English, with automatic RTL/LTR layout switching
 - 🎨 **Clean, modern design** — custom color palette, elegant typography (Vazirmatn for Farsi, Fraunces/Inter for English)
